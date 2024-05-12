@@ -1,0 +1,8 @@
+#untuk memaikai paket/library harus instal dulu
+#untuk install:
+#npm install <<package name>>
+
+#untuk uninstall
+#npm uninstall <<package name>>
+
+#untuk memanggil pada file gunakan require

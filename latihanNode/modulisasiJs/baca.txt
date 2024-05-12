@@ -1,0 +1,4 @@
+#modulisasi
+#berguana untuk mengabungkan dua file js yang berbeda
+#seperti use pada php
+#berguna jika project sangat kompleks
