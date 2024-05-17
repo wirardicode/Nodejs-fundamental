@@ -1,18 +1,19 @@
-# Nodejs-fundamental
+# Need to Know
+this repo need to install all modul needed <br>
 
-# Step 1
-install node.js use fnm
-copy this terminal comand
-----------------------------------------
-# installs fnm (Fast Node Manager)
-winget install Schniz.fnm
-# download and install Node.js
-fnm use --install-if-missing 22
-# verifies the right Node.js version is in the environment
-node -v # should print `v22.2.0`
-# verifies the right NPM version is in the environment
-npm -v # should print `10.7.0`
+# install npm modul
 
-----------------------------------------------------------------
-# or use instan link to install copy this
-https://nodejs.org/dist/v20.13.1/node-v20.13.1-x64.msi
+Step 1
+--
+copy and paste this terminal command:
+npm install
+
+step2
+--
+wait untill progress done
+
+# List of file and directory to learn here
+
+globalObject.js
+--
+This file contain a code to know all Object used in node.js for help us to use that
