@@ -21,3 +21,19 @@ This file contain a code to know all Object used in node.js for help us to use t
 proses.js
 --
 This file contain a code to create server host and port, that help us to make some server
+
+# Run code
+
+You can run the code for now, because you already install npm modul, follow this step for run the code
+
+Run code in root direct
+--
+copy and paste this terminal command:
+
+node [file_name]
+
+Step 2
+--
+copy and paste this terminal command:
+cd [direct_name]<br>
+node [file_name]
