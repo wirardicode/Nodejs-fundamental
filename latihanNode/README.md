@@ -32,7 +32,7 @@ copy and paste this terminal command:
 
 node [file_name]
 
-Step 2
+Run code in sub direct
 --
 copy and paste this terminal command:
 cd [direct_name]<br>
