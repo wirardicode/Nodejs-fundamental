@@ -6,7 +6,7 @@ this repo need to install all modul needed <br>
 Step 1
 --
 copy and paste this terminal command:
-npm install
+`npm install`
 
 step2
 --
@@ -35,5 +35,5 @@ node [file_name]
 Run code in sub direct
 --
 copy and paste this terminal command:
-cd [direct_name]<br>
-node [file_name]
+`cd [direct_name]<br>`
+`node [file_name]`
