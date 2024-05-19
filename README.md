@@ -12,9 +12,9 @@ copy this terminal comand
 # download and install Node.js
 `fnm use --install-if-missing 22`
 # check your node version
-node -v # should print `v22.2.0`
+`node -v `
 # check your npm version
-npm -v # should print `10.7.0`
+`npm -v` 
 
 ----------------------------------------------------------------
 # or use instan link to install copy this
