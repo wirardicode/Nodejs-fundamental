@@ -8,9 +8,9 @@ install node.js use fnm
 copy this terminal comand
 ----------------------------------------
 # installs fnm (Fast Node Manager)
-winget install Schniz.fnm
+`winget install Schniz.fnm`
 # download and install Node.js
-fnm use --install-if-missing 22
+`fnm use --install-if-missing 22`
 # check your node version
 node -v # should print `v22.2.0`
 # check your npm version
